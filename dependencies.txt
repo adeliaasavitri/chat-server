@@ -1,0 +1,7 @@
+chatroom@ C:\Users\adeli\Desktop\University of Stress and Tension\Fall 2024\COMP4021\chatroom
+├── bcrypt@5.1.1
+├── express-session@1.18.1
+├── express@4.21.1
+├── nodemon@3.1.7
+└── socket.io@4.8.1
+
